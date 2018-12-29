@@ -1,0 +1,42 @@
+body {
+    background-color: #5C628D
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+#app{
+    margin-bottom: 1rem;
+    
+}
+
+.title {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: .3rem;
+    font-family: PingFang-SC-Bold;
+}
+
+.ripple {
+    position: relative;
+    margin: 0 auto;
+    width: 2.9rem;
+    height: 1.8rem;
+    background: url(../img/ripple.png) center/cover no-repeat;
+    text-align: center;
+    /* opacity: 0.12; */
+}
+
+.voice {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: .225rem;
+    height: .31rem;
+    background: url(../img/voice.png) center/cover no-repeat;
+}
