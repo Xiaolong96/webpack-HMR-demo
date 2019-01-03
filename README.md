@@ -1,4 +1,4 @@
-# webpack-HMR-demo
+# webpack-MultipleEntry
 ![](https://img.shields.io/badge/xlupc-fortunate-brightgreen.svg)
 
 **webpack多入口的demo——webpack-MultipleEntry**
