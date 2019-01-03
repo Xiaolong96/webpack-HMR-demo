@@ -1,7 +1,7 @@
 # webpack-HMR-demo
 ![](https://img.shields.io/badge/xlupc-fortunate-brightgreen.svg)
 
-**webpack多入口的demo**
+**webpack多入口的demo——webpack-MultipleEntry**
 
 开发时只需要更改src目录下的文件即可
 运行项目：
